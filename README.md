@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohit Ghalot</h1>
+<h1 align="center">Hello, I'm Rohit Ghalot</h1>
 
 What you expect to get out of this course?
 - **This course will help me in getting more knowledge about the working of the various system processing such as Linux and Unix**
